@@ -1,0 +1,271 @@
+1	06-01-2015	11:56:03
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-01-2015	13:23:55
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-01-2015	13:41:45
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-03-2015	11:45:22
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-03-2015	11:58:45
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-03-2015	12:02:52
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-04-2015	11:38:03
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-04-2015	11:47:58
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-04-2015	13:14:54
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-04-2015	13:47:33
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-04-2015	13:49:39
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-04-2015	14:02:26
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-04-2015	14:20:11
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-04-2015	14:23:10
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-04-2015	14:28:14
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+0	0	0	0	0	0	0	0
+1	06-04-2015	14:30:44
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-04-2015	14:33:39
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-04-2015	14:40:30
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-04-2015	15:11:38
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-04-2015	15:14:22
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-04-2015	15:20:06
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-04-2015	15:25:05
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-04-2015	15:28:47
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-04-2015	15:36:35
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-04-2015	15:37:57
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-04-2015	15:44:07
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-04-2015	16:18:34
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-04-2015	16:21:57
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-05-2015	09:24:54
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-05-2015	09:26:01
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-05-2015	09:31:51
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-05-2015	09:59:21
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-05-2015	10:20:46
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-05-2015	10:28:36
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-05-2015	10:38:23
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-05-2015	10:57:37
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-05-2015	11:09:11
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-05-2015	11:13:32
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-05-2015	11:22:55
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-05-2015	11:26:54
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-05-2015	11:30:32
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-05-2015	11:39:53
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-05-2015	11:43:58
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-05-2015	11:45:17
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-05-2015	11:46:10
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-05-2015	11:48:07
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-05-2015	13:04:12
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-05-2015	13:07:53
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-05-2015	13:25:36
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-05-2015	13:28:54
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-08-2015	11:44:59
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-08-2015	11:53:27
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-08-2015	13:14:31
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+330	0.5	198	8.33333333333333E-02	1358.33333333333	0.09375	960.142857142857	0.875
+1	06-08-2015	13:18:33
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-08-2015	13:19:11
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-08-2015	13:20:09
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-08-2015	13:21:48
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+0	0	0	0	0	0	477.9375	1
+1	06-08-2015	13:24:08
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	06-19-2015	14:01:46
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+712.5	1	531.083333333333	1	563.423076923077	0.8125	362.125	0.5
+1	06-21-2016	15:30:09
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	1	122	H	939
+2	1	131	T	1139
+3	1	411	H	946
+4	1	421	H	697
+5	1	244	L	586
+6	1	313	T	352
+7	1	142	H	367
+8	1	411	H	748
+9	1	244	L	489
+10	1	334	H	361
+11	1	233	H	565
+12	1	242	T	610
+13	1	122	H	381
+14	1	122	H	393
+15	1	213	H	725
+16	1	411	H	842
+17	1	344	H	683
+18	1	314	H	419
+19	1	122	H	510
+20	1	441	H	629
+21	1	312	L	719
+22	1	324	H	750
+23	1	431	H	451
+24	1	431	H	429
+25	1	144	L	1007
+26	1	213	H	738
+27	1	434	T	768
+28	1	122	H	261
+29	1	143	L	517
+30	1	142	H	612
+31	1	233	H	534
+32	1	441	H	468
+33	1	233	H	917
+34	1	421	H	604
+35	1	213	H	640
+36	1	442	L	553
+37	1	132	H	495
+38	1	314	H	1006
+39	1	233	H	345
+40	1	141	T	645
+41	1	441	H	439
+42	1	142	H	616
+43	1	421	H	643
+44	1	212	T	461
+45	1	223	H	2366
+46	1	243	H	426
+47	1	213	H	1029
+48	1	213	H	1215
+49	1	243	H	370
+50	1	211	L	342
+51	1	132	H	339
+52	1	421	H	448
+53	1	212	T	778
+54	1	431	H	374
+55	1	223	H	530
+56	1	112	H	832
+57	1	233	H	411
+58	1	413	L	589
+59	1	142	H	369
+60	1	344	H	518
+61	1	441	H	532
+62	1	421	H	459
+63	1	132	H	626
+64	1	334	H	813
+1	06-21-2016	15:39:55
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	1	141	T	564
+2	1	221	L	267
+3	1	421	H	533
+4	1	112	H	462
+5	1	441	H	360
+6	1	212	T	479
+7	1	132	H	489
+8	1	243	H	914
+9	1	411	H	363
+10	1	324	H	311
+11	1	442	L	262
+12	1	441	H	311
+13	1	334	H	230
+14	1	233	H	344
+15	1	324	H	397
+16	1	421	H	337
+17	1	112	H	383
+18	1	112	H	307
+19	1	334	H	426
+20	1	324	H	988
+21	1	441	H	352
+22	1	114	L	685
+23	1	213	H	389
+24	1	124	L	473
+25	1	233	H	361
+26	1	431	H	1958
+27	1	122	H	299
+28	1	243	H	394
+29	1	431	H	486
+30	1	421	H	1110
+31	1	213	H	501
+32	1	223	H	380
+33	1	132	H	335
+34	1	223	H	334
+35	1	213	H	532
+36	1	421	H	690
+37	1	411	H	561
+38	1	431	H	862
+39	1	142	H	1159
+40	1	434	T	1508
+41	1	324	H	595
+42	1	142	H	542
+43	1	344	H	476
+44	1	324	H	348
+45	1	213	H	336
+46	1	314	H	1999
+47	1	243	H	298
+48	1	444	R	266
+49	1	324	H	274
+50	1	223	H	394
+51	1	411	H	342
+52	1	132	H	523
+53	1	324	H	378
+54	1	122	H	310
+55	1	343	T	405
+56	1	431	H	728
+57	1	324	H	782
+58	1	313	T	1441
+59	1	331	L	771
+60	1	122	H	320
+61	1	334	H	263
+62	1	132	H	311
+63	1	213	H	294
+64	1	132	H	366
+0	0	0	0	0	0	0	0
+1	08-19-2016	10:43:46
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	1	112	H	254
+2	1	344	H	665
+3	1	112	H	900
+4	1	334	H	1541
+1	08-19-2016	10:45:02
+R condition RT	R condition ACC	T condition RT	T condition ACC	L condition RT	L condition ACC	H condition RT	H condition ACC
+1	1	132	H	1084
+2	1	112	H	398
+3	1	212	T	331
+4	1	421	H	452
+5	1	421	H	287
+6	1	421	H	272
+7	1	142	H	314
+8	1	223	H	362

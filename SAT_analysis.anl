@@ -1,0 +1,33 @@
+
+{Begin Comments
+
+}
+{Begin Filters
+}
+{Begin Rows
+}
+{Begin Cols
+StimulusImage.ACC	1
+StimulusImage.RT	1
+}
+{Begin Data
+StimulusImage.RT	4
+StimulusImage.ACC	0
+}
+{Begin Options
+0
+1
+0
+1
+2
+2
+1
+1
+1
+0
+1000
+1
+StimulusImage.RT:Mean, StimulusImage.ACC:Count
+1
+StimulusImage.RT:Mean, StimulusImage.ACC:Count
+}

@@ -1,0 +1,329 @@
+1	07-01-2015	14:13:29	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	07-01-2015	14:16:37	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	07-02-2015	12:08:52	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+3	1	411	H	377
+8	1	443	L	286
+14	1	223	H	277
+15	1	313	T	123
+1	07-02-2015	12:09:59	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	1	112	H	0
+10	1	213	H	0
+1	07-02-2015	12:12:18	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	07-02-2015	12:12:45	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	1	132	H	2117
+1	07-07-2015	15:09:57	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	1	314	H	452
+2	1	344	H	525
+3	1	232	T	418
+4	1	112	H	445
+5	1	344	H	726
+6	1	233	H	780
+7	1	343	T	552
+8	1	333	R	469
+9	1	133	L	461
+10	1	431	H	389
+11	1	134	L	449
+12	1	112	H	419
+13	1	122	H	454
+14	1	122	H	415
+15	1	112	H	250
+16	1	142	H	548
+17	1	431	H	449
+18	1	432	L	530
+19	1	122	H	383
+20	1	334	H	412
+21	1	334	H	318
+22	1	122	H	429
+23	1	112	H	383
+24	1	131	T	388
+25	1	143	L	408
+26	1	142	H	371
+27	1	441	H	328
+28	1	411	H	446
+29	1	344	H	367
+30	1	431	H	460
+31	1	132	H	405
+32	1	111	R	377
+33	1	314	H	453
+34	1	223	H	431
+35	1	112	H	409
+36	1	122	H	324
+37	1	421	H	547
+38	1	411	H	401
+40	1	112	H	368
+41	1	421	H	381
+42	1	442	L	465
+43	1	233	H	402
+44	1	112	H	429
+45	1	223	H	391
+46	1	311	L	444
+47	1	223	H	366
+48	1	334	H	1131
+49	1	431	H	336
+51	2	213	H	572
+53	2	122	H	544
+54	2	324	H	470
+55	2	324	H	471
+56	2	334	H	440
+57	2	421	H	514
+58	2	142	H	401
+59	2	421	H	187
+60	2	344	H	320
+61	2	334	H	871
+62	2	223	H	639
+63	2	213	H	393
+64	2	223	H	517
+65	2	423	L	0
+66	2	324	H	0
+67	2	233	H	0
+68	2	441	H	0
+69	2	412	L	0
+70	2	313	T	0
+71	2	233	H	0
+72	2	342	L	0
+73	2	243	H	0
+74	2	421	H	0
+75	2	112	H	0
+76	2	213	H	0
+77	2	223	H	0
+78	2	344	H	0
+79	2	142	H	0
+80	2	342	L	0
+81	2	133	L	0
+82	2	132	H	0
+83	2	324	H	0
+84	2	344	H	0
+85	2	143	L	0
+86	2	314	H	0
+87	2	344	H	0
+88	2	334	H	0
+89	2	411	H	0
+90	2	431	H	0
+91	2	344	H	0
+92	2	112	H	0
+93	2	421	H	0
+94	2	341	L	0
+95	2	441	H	0
+96	2	314	H	0
+97	2	331	L	0
+98	2	431	H	0
+99	2	412	L	0
+100	2	112	H	0
+1	07-21-2015	09:47:02	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+21	3	221	L	0
+27	3	241	L	285
+50	5	243	H	298
+1	07-21-2015	09:53:21	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+5	1	132	H	0
+9	1	421	H	543
+10	1	421	H	533
+48	5	223	H	278
+1	07-21-2015	09:57:01	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+31	1	132	H	397
+1	06-20-2016	11:00:07	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	06-20-2016	11:01:42	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	06-20-2016	11:03:10	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	06-20-2016	11:07:47	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	06-20-2016	11:08:52	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	06-20-2016	11:28:25	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	06-20-2016	11:30:22	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	06-20-2016	15:34:50	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	06-20-2016	15:38:18	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	06-20-2016	15:44:34	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	06-20-2016	15:47:08	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	06-20-2016	15:48:13	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	06-20-2016	15:59:58	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	06-20-2016	16:20:29	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	06-21-2016	09:12:49	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	06-21-2016	09:14:50	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	06-21-2016	09:18:55	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	06-21-2016	09:19:29	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	06-21-2016	09:20:54	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	06-21-2016	09:35:57	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	06-21-2016	09:40:12	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	06-21-2016	09:40:49	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	1	111	R	0
+1	06-21-2016	09:47:21	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	1	111	R	0
+1	06-21-2016	09:49:35	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	1	111	R	0
+1	06-21-2016	09:51:37	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	1	111	R	0
+1	06-21-2016	09:53:10	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	1	111	R	0
+1	06-21-2016	09:53:45	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	06-21-2016	10:02:55	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	06-21-2016	10:03:30	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	06-21-2016	10:06:05	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	06-21-2016	10:07:03	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	06-21-2016	10:10:04	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	06-21-2016	10:11:29	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	1	111	R	0
+1	06-21-2016	10:21:49	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	1	111	R	5549
+1	06-21-2016	10:23:07	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	1	111	R	1106
+1	06-21-2016	11:12:50	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	06-21-2016	11:14:45	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	1	111	R	462
+1	06-21-2016	11:16:15	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	1	111	R	527
+2	1	111	R	464
+3	1	111	R	780
+4	1	111	R	419
+5	1	111	R	334
+1	06-21-2016	11:19:31	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	1	111	R	278
+2	1	111	R	417
+3	1	111	R	254
+4	1	111	R	490
+5	1	111	R	322
+1	06-21-2016	11:22:14	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	06-21-2016	11:22:30	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	1	111	R	834
+2	1	111	R	383
+3	1	111	R	310
+4	1	111	R	407
+5	1	111	R	394
+1	06-21-2016	11:29:30	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	1	111	R	515
+2	1	111	R	523
+3	1	111	R	442
+4	1	111	R	861
+5	1	111	R	478
+1	06-21-2016	11:30:30	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	1	111	R	484
+2	1	111	R	477
+3	1	111	R	31
+4	1	111	R	762
+5	1	111	R	510
+1	06-21-2016	11:33:55	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	1	111	R	303
+2	1	111	R	544
+3	1	111	R	358
+4	1	111	R	531
+5	1	111	R	258
+1	06-21-2016	11:37:09	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	1	111	R	303
+2	1	111	R	423
+3	1	111	R	331
+4	1	111	R	418
+5	1	111	R	396
+1	06-21-2016	11:43:35	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	06-21-2016	11:51:34	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+3	1	111	R	331
+1	06-21-2016	12:00:45	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	06-21-2016	12:03:52	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+3	1	314	H	536
+5	1	331	L	393
+1	06-21-2016	12:53:38	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+3	1	132	H	541
+1	06-21-2016	13:22:41	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+19	1	344	H	1314
+22	1	411	H	421
+40	1	431	H	536
+1	06-21-2016	15:47:16	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+5	1	112	H	584
+1	06-21-2016	15:51:30	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+2	1	222	R	424
+1	08-03-2016	10:10:52	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	08-19-2016	10:30:54	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+2	1	233	H	170
+7	1	441	H	301
+1	08-19-2016	10:32:58	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	08-19-2016	11:24:32	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	08-19-2016	11:38:33	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	08-19-2016	11:41:09	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	08-22-2016	10:05:29	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	08-22-2016	10:15:34	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	08-22-2016	10:17:02	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	08-22-2016	10:20:53	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	08-22-2016	10:21:38	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	08-22-2016	10:24:34	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	08-22-2016	10:26:29	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	08-22-2016	10:29:05	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	08-22-2016	10:39:07	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	08-22-2016	10:41:59	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	08-22-2016	10:49:33	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
+1	08-22-2016	10:51:02	Triplet file=1
+Trial Number	Block Number	Triplet	TT	RT
